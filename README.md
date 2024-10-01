@@ -1,2 +1,0 @@
-# segundocuatrimestre
-Entregables segundo cuatrimestre
