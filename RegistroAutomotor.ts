@@ -15,6 +15,7 @@ export class RegistroAutomotor {
         this.listaCamion = [];
     }
 
+    
     // Getters
     public getNombre(): string {
         return this.nombre;

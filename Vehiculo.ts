@@ -14,6 +14,7 @@ export class Vehiculo {
     getMarca(): string {
         return this.marca;
     }
+    
 
     getModelo(): string {
         return this.modelo;

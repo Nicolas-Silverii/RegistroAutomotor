@@ -1,5 +1,6 @@
 import { Vehiculo } from './vehiculo';
 
+
 export class Auto {
     private vehiculo: Vehiculo;
     private cantidadPuertas: number;

@@ -23,5 +23,6 @@ var Moto = /** @class */ (function () {
         return this.vehiculo.getPatente();
     };
     return Moto;
+    
 }());
 exports.Moto = Moto;

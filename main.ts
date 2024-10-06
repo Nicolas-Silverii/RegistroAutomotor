@@ -1,10 +1,11 @@
-import { RegistroAutomotor } from './registroAutomotor';
+import { RegistroAutomotor } from './RegistroAutomotor';
 import { Auto } from './auto';
 import { Moto } from './Moto';
 import { Camion } from './Camion';
 
 // Crear el registro automotor
 const registroAuto = new RegistroAutomotor("Registro-Automotor-Olav");
+
 
 // Crear vehículos
 const auto1 = new Auto("Toyota", "Corolla", 2020, 4, "ABC123");
